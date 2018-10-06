@@ -16,7 +16,7 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.view.backgroundColor = UIColor.yellow
+        self.view.backgroundColor = UIColor.green
         
         label1.backgroundColor = UIColor.yellow
         label1.text = "ラベル1"
